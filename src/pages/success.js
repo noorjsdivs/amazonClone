@@ -17,7 +17,7 @@ function Success() {
             </h1>
           </div>
           <p>
-            Thank you for shopping with us. We will ll send a confirmation once
+            Thank you for shopping with us. We will send a confirmation once
             your item has shipped, if you would like to check the status of your
             order(s) please press the link below.
           </p>
